@@ -1,6 +1,10 @@
 # MERN E-Commerce Management System
 
 A simple MERN (MongoDB, Express.js, React, Node.js) application for managing customers, products, and orders.
+<br>
+<img width="1918" height="902" alt="image" src="https://github.com/user-attachments/assets/ff17490e-ff8b-4761-88f0-733c87037f8a" />
+<img width="1917" height="908" alt="image" src="https://github.com/user-attachments/assets/85db9842-8bef-49d1-957d-0440c5898431" />
+<img width="1912" height="905" alt="image" src="https://github.com/user-attachments/assets/7388004d-4b3e-4b98-8768-e420eaeb38ba" />
 
 ## Features
 
